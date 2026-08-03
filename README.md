@@ -1,2 +1,4 @@
-# js-digital-clock-55
+# Js Digital Clock 55
+
 Digital clock updater script in JavaScript.
+
